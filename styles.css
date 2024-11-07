@@ -1,0 +1,50 @@
+* {
+    font-family: montserrat;
+}
+
+#navbar-brand, img {
+    width: 10%;
+}
+
+#header_img {
+    background-image: url(Images/Yellow.png);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+}
+
+nav{
+    background-color: #d02c22;
+}
+
+#header_img h3 p {
+    text-align: center;
+   margin: 20px;
+}
+
+.row {
+    margin-top: 30px;
+}
+
+.button-section {
+    
+    margin: 50px;
+}
+
+#hero {
+    background-image: url(Images/mick-haupt-JIaSmEjfNxE-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    color: white;
+}
+
+.navbar-nav a {
+    color: white;
+}
+
+.footer {
+    background-color: #d02c22;
+    color: white;
+    font-size: small;
+}
